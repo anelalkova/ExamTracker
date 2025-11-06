@@ -2,15 +2,13 @@
 
 First laboratory exercise.
 
-## Getting Started
+**MyHomePage Screen**
 
-This project is a starting point for a Flutter application.
+Displays the initial screen on app start, where all exams are listed in card widgets.
+![MyHomePage](https://github.com/user-attachments/assets/7a0d91f2-97ac-4102-9afd-f26c3fef5acb)
 
-A few resources to get you started if this is your first Flutter project:
+**ExamDetails Screen**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Shows details for the clicked exam, such as date, time, place and whether it has passed or not.
+![ExamDetailsScreen](https://github.com/user-attachments/assets/da52ecd8-1fcd-4b02-ab50-80eabe53b7ea)
+![ExamDetailsScreen (Passed Exam)](https://github.com/user-attachments/assets/6187e538-39c6-4505-9f88-ee79be7943fd)
